@@ -29,7 +29,6 @@ X1 - 3.67
 X2 - 2.24
 X3 - 1.42
 X4 - 1.27
-X5 - 0.74
 ```
 
 Research Papers Referred & Implemented:
