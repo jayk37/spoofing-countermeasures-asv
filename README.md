@@ -1,8 +1,8 @@
 # Code Implementation of Anti-Spoofing Models for ASV Frontend
 
 <strong>Dataset</strong>: ASVSpoof2019 LA Partition<br>
-<strong>Attack Type</strong>: Logical Access Attack Detection<br>
-<strong>Focus</strong>: Countermeasure Protocols For ASV Systems
+<strong>Focus</strong>: Countermeasure Protocols For ASV Systems<br>
+<strong>Task</strong>: Logical Access, Physical Access & Deepfake Detection
 ```
 Models Implemented:
 
