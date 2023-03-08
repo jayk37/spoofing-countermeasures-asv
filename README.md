@@ -7,7 +7,7 @@
 Models Implemented:
 
 1. Res-TSSDNet & Inc-TSSDNet
-2. Res-TSSDNet + Multiresolution CNN
+2. Fusion of Res-TSSDNet & Multiresolution CNN
 3. RawNet 2 ( + Learnable Filters - Sinc Layer)
 4. Multiresolution CNN (Lowrank & Depthwise Convolutions)
 ```
