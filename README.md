@@ -2,7 +2,6 @@
 
 <strong>Dataset</strong>: ASVSpoof2019 LA Partition<br>
 <strong>Focus</strong>: Countermeasure Protocols For ASV Systems<br>
-<strong>Task</strong>: Logical Access, Physical Access & Deepfake Detection
 ```
 Models Implemented:
 
