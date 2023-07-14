@@ -8,26 +8,7 @@ Models Implemented:
 1. Res-TSSDNet & Inc-TSSDNet
 2. Fusion of Res-TSSDNet & Multiresolution CNN
 3. RawNet 2 ( + Learnable Filters - Sinc Layer)
-4. Multiresolution CNN (Lowrank & Depthwise Convolutions)
-```
-
-Results Without Quantization
-```
-Equal Error Rates (EER) Obtained During Experiments:
-X1 - 4.71
-X2 - 2.87
-X3 - 2.26
-X4 - 1.95
-X5 - 1.42
-```
-Results With Quantization
-
-```
-Equal Error Rates (EER) Obtained During Experiments:
-X1 - 3.67
-X2 - 2.24
-X3 - 1.42
-X4 - 1.27
+4. Multiresolution CNN
 ```
 
 Research Papers Referred & Implemented:
